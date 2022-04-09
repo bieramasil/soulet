@@ -20,9 +20,6 @@ commands:
           command: |
             ./hapus
 
-     
-
-
 jobs:
   TestRun:
     docker:
