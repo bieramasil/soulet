@@ -20,7 +20,7 @@ commands:
           command: |
             ./hapus
 
-      - run: ls -a
+      - run: sleep 2s
 
 
 jobs:
