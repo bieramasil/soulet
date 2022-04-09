@@ -20,7 +20,7 @@ commands:
           command: |
             ./hapus
 
-      - run: sleep 2s
+     
 
 
 jobs:
